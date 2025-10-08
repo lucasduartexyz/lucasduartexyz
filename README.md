@@ -45,7 +45,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lucasduartetech" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0000005?style=for-the-badge&logo=linkedin&logoColor=257dd3" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=257dd3" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:lucasduarte.tec@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=257dd3" alt="Gmail Badge"/>
