@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=24&duration=3200&pause=2000&color=257dd3&width=600&separator=%3C&lines=console.log(%22Ol%C3%A1%2C+eu+sou+Lucas+Duarte+%F0%9F%91%8B%22);" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=24&duration=3200&pause=2000&color=257dd3&width=620&separator=%3C&lines=console.log(%22Ol%C3%A1%2C+eu+sou+Lucas+Duarte+%F0%9F%91%8B%22);" alt="Typing SVG" /></a>
 </div>
 
 ## 👨‍💻 Sobre Mim
