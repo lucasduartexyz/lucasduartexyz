@@ -24,19 +24,23 @@
 ## 🧠 Tecnologias que possuo conhecimento
 
 <p align="left">
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=257dd3" alt="React Badge"/>
-<img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=257dd3" alt="React Native Badge"/>
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=257dd3" alt="Node.js Badge"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=257dd3" alt="JavaScript Badge"/>
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=257dd3" alt="HTML5 Badge"/>
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=257dd3" alt="CSS3 Badge"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=257dd3" alt="Tailwind CSS Badge"/>
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=257dd3" alt="Java Badge"/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=257dd3" alt="Python Badge"/>
-<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=257dd3" alt="C Badge"/>
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=257dd3" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=257dd3" alt="Git"/>
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=257dd3" alt="Linux"/>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=257dd3" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=257dd3" alt="Node.js Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=257dd3" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=257dd3" alt="HTML5 Badge"/>
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=257dd3" alt="CSS3 Badge"/>
+  <img src="https://img.shields.io/badge/SCSS-000000?style=for-the-badge&logo=sass&logoColor=257dd3" alt="SCSS Badge"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=257dd3" alt="Tailwind CSS Badge"/>
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=257dd3" alt="Java Badge"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=257dd3" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=257dd3" alt="C Badge"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=257dd3" alt="C++"/>
+  <img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=257dd3" alt="Arduino Badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=257dd3" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman&logoColor=257dd3" alt="Postman"/>
+  <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=257dd3" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=257dd3" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=257dd3" alt="Linux"/>
 </p>
 
 ##
