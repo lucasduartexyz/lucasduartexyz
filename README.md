@@ -18,8 +18,7 @@
 
 - 🌱 **Atualmente focando em:** JavaScript | React | Node.js
 - 🎯 **Meu objetivo:** Construir uma base sólida para atuar como Desenvolvedor Fullstack.
-
-##
+  
 
 ## 🧠 Ferramentas e linguagens
 
