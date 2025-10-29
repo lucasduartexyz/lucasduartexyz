@@ -21,7 +21,7 @@
 
 ##
 
-## 🧠 Tecnologias que possuo conhecimento
+## 🧠 Ferramentas e linguagens
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=257dd3" alt="React Badge"/>
