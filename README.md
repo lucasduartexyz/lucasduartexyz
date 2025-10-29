@@ -34,13 +34,13 @@
 ## 📫 Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/lucasduartetech" target="_blank">
+  <a href="https://www.linkedin.com/in/lucasduartetech" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=257dd3" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/lucasduartexyz/" target="_blank">
+  <a href="https://github.com/lucasduartexyz/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=257dd3" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:lucasduarte.tec@gmail.com">
+  <a href="mailto:lucasduarte.tec@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=257dd3" alt="Gmail Badge"/>
   </a>
 </p>
