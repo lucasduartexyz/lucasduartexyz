@@ -32,8 +32,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasduartexyz&show_icons=true&hide_border=true&count_private=true&title_color=9370DB&icon_color=8A2BE2&text_color=BDA0D1&bg_color=transparent" alt="GitHub Stats" width="49%" height="180px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasduartexyz&size_weight=0.5&count_weight=1.0&layout=compact&hide_border=true&count_private=true&title_color=9370DB&icon_color=8A2BE2&text_color=BDA0D1&bg_color=transparent" alt="Top Languages" width="49%" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasduartexyz&show_icons=true&hide_border=true&count_private=true&title_color=9370DB&icon_color=8A2BE2&text_color=BDA0D1&bg_color=0D1117" alt="GitHub Stats" width="49%" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasduartexyz&size_weight=0.5&count_weight=1.0&layout=compact&hide_border=true&count_private=true&title_color=9370DB&icon_color=8A2BE2&text_color=BDA0D1&bg_color=0D1117" alt="Top Languages" width="49%" height="180px">
 </div>
 
 ##
