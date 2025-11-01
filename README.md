@@ -29,6 +29,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=9370DB)](https://www.linkedin.com/in/lucasduartetech)
 [![GitHub Badge](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=9370DB)](https://github.com/lucasduartexyz/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=9370DB)](mailto:lucasduarte.tec@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=9370DB)](https://discord.com/users/302771366124584960)
 
 ## 📊 GitHub Stats
 <div align="center">
