@@ -16,7 +16,7 @@
   Tenho um grande interesse em Front-end e estou focando meus estudos em <strong>React</strong> para aprender a criar interfaces interativas, além de estar construindo minha base em Back-end com <strong>Node.js</strong>.
 </p>
 
-- 🌱 **Atualmente focando em:**TypeScript | JavaScript | React | Node.js
+- 🌱 **Atualmente focando em:** JavaScript | TypeScript | React | Node.js
 - 🎯 **Meu objetivo:** Construir uma base sólida para atuar como Desenvolvedor Fullstack.
   
 
